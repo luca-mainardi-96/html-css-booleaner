@@ -1,0 +1,41 @@
+.intestazione{
+    background-color: rgb(119, 189,217 );
+    padding: 30px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.nome-rubrica{
+    color: blue;
+}
+
+.descrizione-foto{
+    font-weight: 100;
+    font-size: 10px;
+}
+
+.testo-importante{
+    background-color: yellow;
+}
+
+.intestazione-tabella{
+    background-color: rgba(0, 0, 255, 0.616);
+}
+
+.riga-colorata{
+    background-color: aquamarine;
+}
+
+.testo-lungo{
+    max-width: 50px;
+    overflow-wrap: break-word;
+}
+
+.fondo-pagina{
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}

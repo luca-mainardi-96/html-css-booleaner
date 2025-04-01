@@ -7,6 +7,11 @@
     width: 150px;
 }
 
+.titolo-articolo{
+    margin-bottom: 0;
+    padding: 0;
+}
+
 .nome-rubrica{
     color: blue;
 }
@@ -28,14 +33,29 @@
     background-color: aquamarine;
 }
 
-.testo-lungo{
-    max-width: 50px;
-    overflow-wrap: break-word;
+.prima-colonna{
+    width: 400px;
+    height: 30px;
+}
+
+.seconda-colonna{
+    width: 400px;
+    height: 30px;
+}
+
+.terza-colonna{
+    width: 700px;
+    height: 30px;
+    word-wrap: break-word;
 }
 
 .fondo-pagina{
     background-color: blue;
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     color: white;
+}
+
+.ultimo-elemento{
+    margin-bottom: 40px;
 }
